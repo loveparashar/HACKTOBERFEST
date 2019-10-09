@@ -45,5 +45,3 @@ class doubly_LL{
         delete ptr;
     }
 };
-
-cd
